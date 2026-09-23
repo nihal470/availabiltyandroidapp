@@ -1,0 +1,6 @@
+{
+  "name": "Travz Car Rental",
+  "description": "Vehicle availability tracking, fleet management, and booking scheduling for Travz Car Rental Oman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
